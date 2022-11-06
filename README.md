@@ -1,6 +1,6 @@
 
 <center>
-    <img src="https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif" alt="head" width="100%" height="450">
+    <img src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png" alt="head" >
 </center>
 <h1 align="center">Hi 👋, I'm Yuz</h1>
 <h3 align="center">I want to be a backend developer from Makassar-Indonesia</h3>
@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuz97&label=Profile%20views&color=0e75b6&style=flat" alt="yuz97" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img src="https://i.pinimg.com/originals/c9/95/31/c99531e5f0e973b4ae320541f468ea6c.gif" alt="bmo" align="right" width="250" height="250">
+
 - 🌱 I’m currently learning **Laravel,Go,Express,Java,React,Vue**
 
 - 💬 Ask me about **Laravel,React,Vue**
