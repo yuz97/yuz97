@@ -3,8 +3,8 @@
     <img src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png" alt="head" >
 </center>
 
-<h1 align="center">Hi 👋, I'm Yuz</h1>
-<h3 align="center">My Passion is to be a Backend Developer and IoT</h3>
+<h1 align="center">Hi 👋, my nickname is Yuz</h1>
+<h3 align="center">I was excicited to be a Backend Developer and love about robotic<h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuz97&label=Profile%20views&color=0e75b6&style=flat" alt="yuz97" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **zhoumilau@gmail.com**
 
-- ⚡ Fun fact **Sometimes i can be a funny people and sometimes crazy**
+- ⚡ Fun fact **I was an electro engineering **
 
 
 
