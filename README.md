@@ -4,16 +4,7 @@
 </center>
 
 <h1 align="center">Hi 👋, my nickname is Yuz</h1>
-<h3 align="center">I was excicited to be a Backend Developer and love about robotic<h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuz97&label=Profile%20views&color=0e75b6&style=flat" alt="yuz97" /> </p>
-
-- 🌱 I’m currently learning **Laravel,Golang,Tailwind and Vue **
-
-- 📫 How to reach me **zhoumilau@gmail.com**
-
-- ⚡ Fun fact **I was an electro engineering **
-
 
 
 ## 🌐 Socials:
