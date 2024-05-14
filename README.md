@@ -3,10 +3,6 @@
     <img src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png" alt="head" >
 </center>
 
-<h1 align="center">Hi 👋, my nickname is Yuz</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuz97&label=Profile%20views&color=0e75b6&style=flat" alt="yuz97" /> </p>
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Yuz_97#5791) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yuz97) 
 
